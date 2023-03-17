@@ -1,0 +1,19 @@
+{
+  "name": "node_pg",
+  "version": "1.0.0",
+  "description": "node postgresql homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
+  }
+}
